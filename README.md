@@ -2,4 +2,4 @@
 https://www.youtube.com/@MachineLearningwithPhil
 https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 
-with few modification
+make it compatible with recent package
